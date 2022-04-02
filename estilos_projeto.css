@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+fieldset{
+    text-align: center;
+}
+figure{
+    text-align: center;
+}
+button{
+    text-align: center;
+    position: relative;
+    top: 0px;
+    left: 344px;
+}
