@@ -1,5 +1,8 @@
 @charset "UTF-8";
 
+body{
+    background-color: lightblue;
+}
 h1{
     text-align: center;
 }
@@ -16,5 +19,6 @@ button{
     text-align: center;
     position: relative;
     top: 0px;
-    left: 344px;
+    left: 511px;
+    background-color: aquamarine;
 }
